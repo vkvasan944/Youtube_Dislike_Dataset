@@ -1,11 +1,7 @@
-# This is Youtube_Dislike_Dataset Python Project
-# YOUTUBE ANALYSIS
+# Exploratory Data Analysis on YouTube data.
 
-### Exploratory Data Analysis on YouTube data.
-#### Domain: Social media
+## Domain: Social media
 
-
-![Logo](https://user-images.githubusercontent.com/130181481/233555419-911058ff-6e3c-4fee-93de-9502374ceed3.jpeg)
 
 ## Context and Content:
 
@@ -14,13 +10,26 @@ number of dislikes from users around November 2021. However, the official YouTub
 get information about dislikes until December 13, 2021. Doing an EDA-exercise can help to draw some unseen
 insights from this dataset.
 
+## Learning Outcome:
+
+● Exploratory Data Analysis using Pandas.
+
 ## Objective:
 
-To do data analysis and explore the youtube dislikes dataset using numpy and pandas libraries and drive meaningful insights by performing Exploratory data analysis. 
+To do data analysis and explore the youtube dislikes dataset using numpy and pandas libraries and drive meaningful insights by performing Exploratory data analysis.
 
-## Data Description:
+# Data Description:
 
-Dataset link: https://www.kaggle.com/datasets/dmitrynikolaev/youtube-dislikes-dataset
+## YouTube Dislikes Dataset:
+● This dataset contains information about trending YouTube videos from August 2020 to December 2021
+for the USA, Canada, and Great Britain.
+● This dataset contains the latest possible information about dislikes,likes,views and more which was
+collected just before December 13. The information was collected by videos that had been trending in
+the USA, Canada, and Great Britain for a year prior.
+● Dataset link: https://www.kaggle.com/datasets/dmitrynikolaev/youtube-dislikes-dataset
+
+
+## Attribute Information:
 
 ![image](https://user-images.githubusercontent.com/130181481/233554787-9ddfaf90-0247-4313-991d-6bab86ab6354.png) 
 
